@@ -38,5 +38,3 @@ Jose's [Portfolio](https://uwttn.github.io/portfolio/)
 GitHub: [uwttn](https://github.com/uwttn)
 
 LinkedIn: [uwttn](https://www.linkedin.com/in/uwttn)
-
-Email: muchati@icloud.com
