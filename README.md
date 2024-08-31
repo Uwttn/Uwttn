@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div align="center">
 Contact
 
-Jose's [Portfolio](https://uwttn.github.io/portfolio/)
+Jose's [Portfolio](https://main--uwttn.netlify.app/)
 
 GitHub: [uwttn](https://github.com/uwttn)
 
