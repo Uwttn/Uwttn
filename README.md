@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center">
 ## Contact
 
 Jose's [Portfolio](https://uwttn.github.io/portfolio/)
@@ -39,5 +40,6 @@ GitHub: [uwttn](https://github.com/uwttn)
 
 LinkedIn: [uwttn](https://www.linkedin.com/in/uwttn)
 
+</div>
 ![The Journey Of Life](https://github.com/user-attachments/assets/5a45eb51-330a-43dc-aae5-12c05fe4967e)
 
