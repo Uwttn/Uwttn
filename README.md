@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-## The following are a list of technologies I have used on my repositories
+<h1>The following are a list of technologies I have used on my repositories</h1>
 </div>
 
 <div align="center">
