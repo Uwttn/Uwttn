@@ -42,5 +42,3 @@ LinkedIn: [uwttn](https://www.linkedin.com/in/uwttn)
 
 </div>
 
-![The Journey Of Life](https://github.com/user-attachments/assets/5a45eb51-330a-43dc-aae5-12c05fe4967e)
-
