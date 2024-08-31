@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <div align="center">
 Contact
 
-Jose's [Portfolio](https://main--uwttn.netlify.app/)
+[Portfolio](https://main--uwttn.netlify.app/)
 
-GitHub: [uwttn](https://github.com/uwttn)
+[LinkedIn](https://www.linkedin.com/in/uwttn)
 
-LinkedIn: [uwttn](https://www.linkedin.com/in/uwttn)
+[YouTube](https://www.youtube.com/@Much2think)
 
 </div>
 
