@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-Contact
+<h1>Contact</h1>
 
 [Portfolio](https://main--uwttn.netlify.app/)
 
