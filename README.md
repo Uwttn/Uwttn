@@ -10,8 +10,9 @@
 
 <div align="center">
 
-[![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
-[![HTML](https://img.shields.io/badge/Language-HTML/CSS-ff8000?style=plastic&logo=HTML5&logoWidth=10)](https://html.com/)
+[![HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=plastic&logo=html5&logoWidth=10&logoColor=E34F26)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/Language-CSS-1572B6?style=plastic&logo=css3&logoWidth=10&logoColor=1572B6)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/Language-js-f7df1e?style=plastic&logo=css3&logoWidth=10&logoColor=f7df15)](https://www.w3schools.com/css/)
 [![Render](https://img.shields.io/badge/Deployment-Render-00ff00?style=plastic&logo=render&logoWidth=10)](https://render.com)
 [![Node.js](https://img.shields.io/badge/Framework-Node.js-ff0000?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
