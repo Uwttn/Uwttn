@@ -37,7 +37,7 @@
   
 <h1>Contact Me</h1>
 
-<a href="https://www.linkedin.com/in/uwttn"><img src="https://github.com/user-attachments/assets/484ea583-4fc6-4dc5-a175-717b1c86c826" alt="LinkedIn Profile" style="width:190px;"/></a>
+<a href="https://www.linkedin.com/in/uwttn"><img src="https://github.com/user-attachments/assets/14982a07-d62d-4c89-92dd-28559cd4b764" alt="LinkedIn Profile" style="width:100px;"/></a>
 
 </div>
 
