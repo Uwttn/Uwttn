@@ -33,9 +33,8 @@
 </div>
 
 <div align="center">
-<h1>Contact</h1>
-
-[Portfolio](https://main--uwttn.netlify.app/)
+  
+<h1>Contact Me</h1>
 
 [LinkedIn](https://www.linkedin.com/in/uwttn)
 
