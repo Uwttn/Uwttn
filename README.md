@@ -27,6 +27,7 @@
 [![CodeMirror](https://img.shields.io/badge/Package-CodeMirror-d30707?style=plastic&logo=CodeMirror&logoWidth=10&logoColor=d30707)](https://codemirror.net/)
 <br>
 [![Render](https://img.shields.io/badge/Deployment-Render-000000?style=plastic&logo=render&logoWidth=10&logoColor=000000)](https://render.com)
+<br>
 [![npm](https://img.shields.io/badge/Tools-npm-cb3837?style=plastic&logo=npm&logoWidth=10&logoColor=cb3837)](https://www.npmjs.com/)
 <br>
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-blue?style=plastic&logo=VisualStudioCode&logoWidth=10&logoColor=blue)](https://code.visualstudio.com/docs)
