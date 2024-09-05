@@ -51,7 +51,5 @@ IDE
 
 [LinkedIn](https://www.linkedin.com/in/uwttn)
 
-[YouTube](https://www.youtube.com/@Much2think)
-
 </div>
 
