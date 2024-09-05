@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h1>The following are a list of technologies I have used on my repositories</h1>
+<h1>Technologies used in my repositories</h1>
 </div>
 
 <div align="center">
