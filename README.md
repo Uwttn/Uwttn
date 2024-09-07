@@ -39,7 +39,7 @@
 
 <a href="https://www.linkedin.com/in/uwttn"><img src="https://github.com/user-attachments/assets/14982a07-d62d-4c89-92dd-28559cd4b764" alt="LinkedIn Profile" style="width:100px;"/></a>
 <a href="https://stackoverflow.com/users/26846197/jose"><img src="https://github.com/user-attachments/assets/e29bbe7e-9bb7-4717-aea3-aeca7a121f2f" alt="StackOverflow Profile" style="width:100px;"/></a>
-<a href="https://dev.to/uwttn"><img src="https://github.com/user-attachments/assets/c278d305-74b0-49b3-920f-b26edcf886da" alt="Dev.to Profile" style="width:100px;"/></a>
+<a href="https://dev.to/uwttn"><img src="https://github.com/user-attachments/assets/86214463-8e69-4b50-b6c7-d543e4a49e46" alt="Dev.to Profile" style="width:100px;"/></a>
 
 </div>
 
