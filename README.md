@@ -12,7 +12,7 @@
 
 [![HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=plastic&logo=html5&logoWidth=10&logoColor=E34F26)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/Language-CSS-1572B6?style=plastic&logo=css3&logoWidth=10&logoColor=1572B6)](https://www.w3schools.com/css/)
-[![JavaScript](https://img.shields.io/badge/Language-js-f7df1e?style=plastic&logo=css3&logoWidth=10&logoColor=f7df15)](https://www.w3schools.com/js/default.asp)
+[![JavaScript](https://img.shields.io/badge/Language-js-f7df1e?style=plastic&logo=JavaScript&logoWidth=10&logoColor=f7df15)](https://www.w3schools.com/js/default.asp)
 <br>
 [![PostgreSQL](https://img.shields.io/badge/Database-postgreSQL-4169e1?style=plastic&logo=PostgreSQL&logoWidth=10&logoColor=4169e1)](https://www.w3schools.com/postgresql/index.php)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47a24b?style=plastic&logo=MongoDB&logoWidth=10&logoColor=47a248)](https://www.w3schools.com/mongodb/index.php)
