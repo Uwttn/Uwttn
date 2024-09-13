@@ -1,11 +1,9 @@
 <div align="center">
   
-<h1>Hello World! 🌎</h1>
-  
-</div>
+<h1>Introduction</h1>
 
-<div align="center">
-<h1>Technologies used in my repositories</h1>
+<p>I have a solid foundation in HTML, CSS, and JavaScript, and I’m committed to growing my skills further. My focus is on building clean, responsive websites while continuously expanding my knowledge of best practices and modern techniques. I’m excited to take on new challenges that help me improve and develop within the web development field.</p>
+  
 </div>
 
 <div align="center">
@@ -36,4 +34,3 @@
 <a href="https://dev.to/uwttn"><img src="https://github.com/user-attachments/assets/86214463-8e69-4b50-b6c7-d543e4a49e46" alt="Dev.to Profile" style="width:100px;"/></a>
 
 </div>
-
