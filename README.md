@@ -37,6 +37,4 @@
 
 </div>
 
-<a href="https://main--uwttn.netlify.app/" align="center"><img src="https://github.com/user-attachments/assets/caefec8d-4a28-4281-bb59-3004e44851fe"></a>
-
 
