@@ -2,7 +2,7 @@
   
 <h1>Introduction</h1>
 
-<p>I have a solid foundation in HTML, CSS, and JavaScript, and I’m committed to growing my skills further. My focus is on building clean, responsive websites while continuously expanding my knowledge of best practices and modern techniques. I’m excited to take on new challenges that help me improve and develop within the web development field.</p>
+```I have a solid foundation in HTML, CSS, and JavaScript, and I’m committed to growing my skills further. My focus is on building clean, responsive websites while continuously expanding my knowledge of best practices and modern techniques. I’m excited to take on new challenges that help me improve and develop within the web development field.```
   
 </div>
 
@@ -26,6 +26,8 @@
 </div>
 
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwttn&layout=donut&theme=merko)](https://github.com/uwttn/github-readme-stats) ` [![GitHub Streak](https://streak-stats.demolab.com/?user=uwttn&theme=merko)](https://git.io/streak-stats)
   
 <h1>Contact Me</h1>
 
@@ -34,3 +36,7 @@
 <a href="https://dev.to/uwttn"><img src="https://github.com/user-attachments/assets/86214463-8e69-4b50-b6c7-d543e4a49e46" alt="Dev.to Profile" style="width:100px;"/></a>
 
 </div>
+
+<a href="https://main--uwttn.netlify.app/" align="center"><img src="https://github.com/user-attachments/assets/caefec8d-4a28-4281-bb59-3004e44851fe"></a>
+
+
