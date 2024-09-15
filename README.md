@@ -31,4 +31,6 @@
 
 [![FlipIt](https://github.com/user-attachments/assets/2ab1a638-e80f-4764-8242-1ca91d5e061a)](https://flipit-57ng.onrender.com/)
 
+[Repository of the FlipIt Website](https://github.com/AllredW/FlipIt)
+
 </div>
