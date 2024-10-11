@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwttn&layout=donut&theme=merko)](https://github.com/uwttn/github-readme-stats) ` [![GitHub Streak](https://streak-stats.demolab.com/?user=uwttn&theme=merko)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwttn&layout=donut&theme=merko)](https://github.com/uwttn/github-readme-stats) 
 
 [![FlipIt](https://github.com/user-attachments/assets/2ab1a638-e80f-4764-8242-1ca91d5e061a)](https://flipit-57ng.onrender.com/)
 
