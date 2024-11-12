@@ -25,6 +25,7 @@
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-blue?style=plastic&logo=VisualStudioCode&logoWidth=10&logoColor=blue)](https://code.visualstudio.com/docs)
 </div>
 
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwttn&layout=donut&theme=merko)](https://github.com/uwttn/github-readme-stats) 
@@ -33,4 +34,8 @@
 
 [Repository of the FlipIt Website](https://github.com/AllredW/FlipIt)
 
+[Jose's Portfolio](https://uwttn.github.io/portfolio/)
+
 </div>
+
+
