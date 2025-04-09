@@ -2,7 +2,7 @@
   
 <h1>Introduction</h1>
 
-```I have a solid foundation in HTML, CSS, and JavaScript, and I’m committed to growing my skills further. My focus is on building clean, responsive websites while continuously expanding my knowledge of best practices and modern techniques. I’m excited to take on new challenges that help me improve and develop within the web development field.```
+```I have a solid foundation in web development. My skills are focused on Front-End Web Development, but I am open to growing my Back-End Development skills. The way I use AI is not to generate code but as a learning tool to further my skills. Therefore, I use it to identify programming concepts and find information via documentation. I also ensure that my code is understandable through comments and follows common programming ethical standards.```
   
 </div>
 
