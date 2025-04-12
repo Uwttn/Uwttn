@@ -1,12 +1,4 @@
 <div align="center">
-  
-<h1>Introduction</h1>
-
-I have a solid foundation in web development. My skills are focused on front-end web development, but I am open to developing my back-end skills. I use AI not to generate code but as a learning tool to further my skills. Therefore, I use it to identify programming concepts and find information via documentation. I also ensure my code is understandable through comments and follows common programming ethical standards.
-  
-</div>
-
-<div align="center">
 
 [![HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=plastic&logo=html5&logoWidth=10&logoColor=E34F26)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/Language-CSS-1572B6?style=plastic&logo=css3&logoWidth=10&logoColor=1572B6)](https://www.w3schools.com/css/)
